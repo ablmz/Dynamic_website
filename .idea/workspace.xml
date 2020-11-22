@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46390f40-e639-4418-a225-f767456f193a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iCav2WLstzgJoLS9jXX81AXHP1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HorizontPhpEssenbestellt2/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46390f40-e639-4418-a225-f767456f193a" name="Default Changelist" comment="" />
+      <created>1601414255226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601414255226</updated>
+      <workItem from="1601414256297" duration="9074000" />
+      <workItem from="1601456491546" duration="2296000" />
+      <workItem from="1601464149894" duration="17225000" />
+      <workItem from="1601495198593" duration="22773000" />
+      <workItem from="1601540220119" duration="204000" />
+      <workItem from="1601540940085" duration="3297000" />
+      <workItem from="1601552309153" duration="6030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="73" key="#PHP" timestamp="1601414464072">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="73" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1601414464072" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601501453019">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601501453019" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom" timestamp="1601501630267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601501630267" />
+    <state width="1557" height="276" key="GridCell.Tab.2.center" timestamp="1601501630267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1601501630267" />
+    <state width="1557" height="276" key="GridCell.Tab.2.left" timestamp="1601501630266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1601501630266" />
+    <state width="1557" height="276" key="GridCell.Tab.2.right" timestamp="1601501630267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1601501630267" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1601541434060">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1601541434060" />
+  </component>
+</project>
